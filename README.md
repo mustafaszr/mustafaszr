@@ -23,10 +23,10 @@ Continuous improvement, clean code, and practical problem-solving are at the hea
 ## Some stats stuff
 
 <p align="center">
-	<a href="https://github.com/mustafaszr">
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaszr&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="mustafaszr"/>
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaszr&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mustafaszr"/>
-	</a>
+  <a href="https://github.com/mustafaszr">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mustafaszr&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaszr&layout=compact&langs_count=8" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
